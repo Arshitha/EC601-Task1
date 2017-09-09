@@ -1,13 +1,17 @@
-### OpenCV: Open Source Computer Vision Library
+### Learning Git/GitHub using OpenCV: Open Source Computer Vision Library
 
-#### Resources
+#### Git/GitHub Resources
+ * Tutorials: https://www.youtube.com/watch?v=7Ab5DIWYUMw&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=4
+ * GitHub Guides: https://guides.github.com/
+ 
+#### Project Resources
 
 * Homepage: <http://opencv.org>
 * Docs: <http://docs.opencv.org/master/>
 * Q&A forum: <http://answers.opencv.org>
 * Issue tracking: <https://github.com/opencv/opencv/issues>
 
-#### Contributing
+#### Project Contributions
 
 Please read before starting work on a pull request: <https://github.com/opencv/opencv/wiki/How_to_contribute>
 
