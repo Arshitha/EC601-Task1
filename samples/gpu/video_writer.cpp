@@ -106,6 +106,7 @@ int main(int argc, const char* argv[])
 int main()
 {
     std::cout << "OpenCV was built without CUDA Video encoding support\n" << std::endl;
+    std::cout << "OpenCV was built without CUDA Video encoding support\n" << std::endl;
     return 0;
 }
 
