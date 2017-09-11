@@ -111,7 +111,7 @@ static double computeReprojectionErrors(
 static void calcChessboardCorners(Size boardSize, float squareSize, vector<Point3f>& corners, Pattern patternType = CHESSBOARD)
 {
     corners.resize(0);
-
+//test
     switch(patternType)
     {
       case CHESSBOARD:
