@@ -36,7 +36,7 @@ int main()
 {
     cout << endl;
     cout << "Cloning Module" << endl;
-    cout << "---------------" << endl;
+    cout << "-----------------" << endl;
     cout << "Options: " << endl;
     cout << endl;
     cout << "1) Normal Cloning " << endl;
