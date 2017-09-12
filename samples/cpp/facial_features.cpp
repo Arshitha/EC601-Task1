@@ -91,7 +91,7 @@ static void help()
     cout << " \n\nThe classifiers for face and eyes can be downloaded from : "
         " \nhttps://github.com/opencv/opencv/tree/master/data/haarcascades";
 
-    cout << "\n\nThe classifiers for nose and mouth can be downloaded from : "
+    cout << "\n\nGood.The classifiers for nose and mouth can be downloaded from : "
         " \nhttps://github.com/opencv/opencv_contrib/tree/master/modules/face/data/cascades\n";
 }
 
