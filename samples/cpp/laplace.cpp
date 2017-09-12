@@ -13,7 +13,7 @@ static void help()
 {
     cout <<
             "\nThis program demonstrates Laplace point/edge detection using OpenCV function Laplacian()\n"
-            "It captures from the camera of your choice: 0, 1, ... default 0\n"
+            "It captures from the camera of your choices: 0, 1, ... default 0\n"
             "Call:\n"
             "./laplace -c=<camera #, default 0> -p=<index of the frame to be decoded/captured next>\n" << endl;
 }
