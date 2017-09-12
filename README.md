@@ -5,10 +5,15 @@
 * Chunxi Wang: <tracycxw@bu.edu>
 * Yu Cao: <yucao@bu.edu>
 
-### What We DO
+## What We DO
 * learn How to use GitHub
 * modify some codes of opencv
 * modify some codes of html of our own
+
+## Project Description
+
+## Instructions
+
 
 
 ### Learning Git/GitHub using OpenCV: Open Source Computer Vision Library
