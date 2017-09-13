@@ -1,18 +1,17 @@
 # EC601-Task1
 
-## Contributers
-* Arshitha: <arshitha@bu.edu>
+## Contributors
+* Arshitha: <arshitha@bu.edu> <arsh2794@gmail.com>
 * Chunxi Wang: <tracycxw@bu.edu>
 * Yu Cao: <yucao@bu.edu>
 
-## What We DO
-* learn How to use GitHub
+## Progress
+* learn how to use GitHub
 * modify some codes of opencv
-* modify some codes of html of our own
 
 ## Project Description
 
-## Instructions
+
 
 
 
