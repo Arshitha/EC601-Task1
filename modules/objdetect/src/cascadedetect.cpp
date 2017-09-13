@@ -85,7 +85,7 @@ void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps
     std::vector<int> rejectLevels(nclasses, 0);
     std::vector<double> rejectWeights(nclasses, DBL_MIN);
     int i, j, nlabels = (int)labels.size();
-    for( i = 0; i < nlabels; i++ )
+    for( i = 0; i < nlabels; i++ )    //this is a loop
     {
         int cls = labels[i];
         rrects[cls].x += rectList[i].x;
