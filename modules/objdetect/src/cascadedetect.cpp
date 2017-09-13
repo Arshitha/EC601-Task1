@@ -42,6 +42,7 @@
 #include "precomp.hpp"
 #include <cstdio>
 #include <iostream>
+#include <math.h>
 
 #include "cascadedetect.hpp"
 #include "opencv2/objdetect/objdetect_c.h"
@@ -74,6 +75,7 @@ void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps
         return;
     }
 
+    std::cout << "Hello World" << endl;
     std::vector<int> labels;
     int nclasses = partition(rectList, labels, SimilarRects(eps));
 
@@ -111,7 +113,7 @@ void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps
     else
         useDefaultWeights = true;
 
-    for( i = 0; i < nclasses; i++ )
+    for( i = 1; i < nclasses; i++ )
     {
         Rect r = rrects[i];
         float s = 1.f/rweights[i];
