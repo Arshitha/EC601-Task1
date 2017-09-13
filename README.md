@@ -1,4 +1,8 @@
+### Homework1
 ### Learning Git/GitHub using OpenCV: Open Source Computer Vision Library
+
+The primary purpose of this homework is to get familiarised with software development tools such as GitHub, git, Trello, etc. 
+Since all three of us are beginners we are focussing on using the project below to get used to working with GitHub.
 
 #### Git/GitHub Resources
  * Tutorials: https://www.youtube.com/watch?v=7Ab5DIWYUMw&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=4
