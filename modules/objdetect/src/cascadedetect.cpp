@@ -1,6 +1,9 @@
 /*M///////////////////////////////////////////////////////////////////////////////////////
-//
-//  IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
+//            
+//         **** THIS CODE DOESN'T COMPILE. USED THE FILE JUST TO UNDERSTAND GITHUB. ****
+// 
+
+//IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
 //
 //  By downloading, copying, installing or using the software you agree to this license.
 //  If you do not agree to this license, do not download, install,
@@ -39,9 +42,9 @@
 //
 //M*/
 
-#include "precomp.hpp"
+#include "precomp.hpp"                                       // user-defined header file
 #include <cstdio>
-#include <iostream>
+#include <iostream>                                         //c++ standard library
 
 #include "cascadedetect.hpp"
 #include "opencv2/objdetect/objdetect_c.h"
