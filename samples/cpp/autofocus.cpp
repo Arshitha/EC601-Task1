@@ -164,7 +164,7 @@ static int correctFocus(bool lastSucceeded, FocusState & state, double rate)
 
     if (!lastSucceeded)
     {
-        // Focus at limit or other problem, change the direction.
+        // Focus at limits or other problem, change the direction.
         state.direction *= -1;
         state.lastDirectionChange = 0;
         state.step /= 2;

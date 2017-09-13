@@ -362,13 +362,6 @@ static void groupRectangles_meanshift(std::vector<Rect>& rectList, double detect
     }
 }
 
-void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps)
-{
-    CV_INSTRUMENT_REGION()
-
-    groupRectangles(rectList, groupThreshold, eps, 0, 0);
-}
-
 void groupRectangles(std::vector<Rect>& rectList, std::vector<int>& weights, int groupThreshold, double eps)
 {
     CV_INSTRUMENT_REGION()
