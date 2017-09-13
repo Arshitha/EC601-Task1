@@ -42,7 +42,6 @@
 #include "precomp.hpp"
 #include <cstdio>
 #include <iostream>
-#include <math.h>
 
 #include "cascadedetect.hpp"
 #include "opencv2/objdetect/objdetect_c.h"
