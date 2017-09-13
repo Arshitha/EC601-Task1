@@ -1,6 +1,6 @@
 ### Homework1
 ## Contributors
-* Arshitha: <arshitha@bu.edu> <arsh2794@gmail.com>
+* Arshitha: <arshitha@bu.edu> & <arsh2794@gmail.com>
 * Chunxi Wang: <tracycxw@bu.edu>
 * Yu Cao: <yucao@bu.edu>
 
