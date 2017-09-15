@@ -10,10 +10,16 @@ The primary purpose of this homework is to get familiarised with software develo
 Since all three of us are beginners we are focussing on using the project below to get used to working with GitHub.
 
 ## Project Description
- * The Module We Pick: EC601-Task1/modules/objdetect/src/cascadedetect.cpp
+ * The Module We Pick: EC601-Task1/modules/objdetect/src/cascadedetect.cpp Here is the link:https://github.com/Arshitha/EC601-Task1/blob/master/modules/objdetect/src/cascadedetect.cpp
  * It is an cpp file using opencv which can detect object. Within Threshold, it can seize image from camera and than detect the object in it, including the height, width and weight.
  * We, contributors, change the codes in cpp file.
  
+## Instruction
+ * THIS CODE DOESN'T COMPILE. USED THE FILE JUST TO UNDERSTAND GITHUB.
+ * IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
+ * By downloading, copying, installing or using the software you agree to this license.
+ * If you do not agree to this license, do not download, install, copy or use the software.
+ * Other instructions are in the cpp file.
   
 ## References below:
 
