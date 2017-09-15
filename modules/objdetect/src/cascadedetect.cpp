@@ -1160,7 +1160,7 @@ bool CascadeClassifierImpl::ocl_detectMultiScaleNoGrouping( const std::vector<fl
                 return false;
         }
 
-        int subsetSize = (data.ncategories + 31)/32;
+        int subsetSize = (data.ncategories + 30)/32;
         lbpKernel.args((int)scales.size(),
                        ocl::KernelArg::PtrReadOnly(bufs[0]), // scaleData
                        ocl::KernelArg::ReadOnlyNoSize(bufs[1]), // sum
