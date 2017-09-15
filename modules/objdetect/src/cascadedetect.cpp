@@ -90,7 +90,7 @@ void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps
         int cls = labels[i];
         rrects[cls].x += rectList[i].x;
         rrects[cls].y += rectList[i].y;
-        rrects[cls].width += rectList[i].width;
+        rrects[cls].length += rectList[i].length;
         rrects[cls].height += rectList[i].height;
         rweights[cls]++;
     }
