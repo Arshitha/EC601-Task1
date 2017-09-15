@@ -76,7 +76,8 @@ void groupRectangles(std::vector<Rect>& rectList, int groupThreshold, double eps
         }
         return;
     }
-
+    
+    std::out<<"I can see you"<<endl;
     std::vector<int> labels;
     int nclasses = partition(rectList, labels, SimilarRects(eps));
 
