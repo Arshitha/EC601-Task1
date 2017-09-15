@@ -5,7 +5,6 @@
 * Yu Cao: <yucao@bu.edu>
 
 ## Homework1 Description: Learning Git/GitHub using OpenCV 
-### ---Open Source Computer Vision Library
 The primary purpose of this homework is to get familiarised with software development tools such as GitHub, git, Trello, etc. 
 Since all three of us are beginners we are focussing on using the project below to get used to working with GitHub.
 
