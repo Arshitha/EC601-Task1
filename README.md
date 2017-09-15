@@ -4,12 +4,18 @@
 * Chunxi Wang: <tracycxw@bu.edu>
 * Yu Cao: <yucao@bu.edu>
 
-## Project Description: Learning Git/GitHub using OpenCV 
+## Homework1 Description: Learning Git/GitHub using OpenCV 
 ### ---Open Source Computer Vision Library
 The primary purpose of this homework is to get familiarised with software development tools such as GitHub, git, Trello, etc. 
 Since all three of us are beginners we are focussing on using the project below to get used to working with GitHub.
+
+## Project Description
+ * The Module We Pick: EC601-Task1/modules/objdetect/src/cascadedetect.cpp
+ * It is an cpp file using opencv which can detect object. Within Threshold, it can seize image from camera and than detect the object in it, including the height, width and weight.
+ * We, contributors, change the codes in cpp file.
+ 
   
-  
+## References below:
 
 #### Git/GitHub Resources
  * Tutorials: https://www.youtube.com/watch?v=7Ab5DIWYUMw&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=4
