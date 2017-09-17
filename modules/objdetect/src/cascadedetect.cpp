@@ -426,7 +426,7 @@ void FeatureEvaluator::getMats()
     }
 }
 
-float FeatureEvaluator::calcOrd(int) const { return 0.; }
+double FeatureEvaluator::calcOrd(int) const { return 0.; }
 int FeatureEvaluator::calcCat(int) const { return 0; }
 
 bool FeatureEvaluator::updateScaleData( Size imgsz, const std::vector<float>& _scales )
