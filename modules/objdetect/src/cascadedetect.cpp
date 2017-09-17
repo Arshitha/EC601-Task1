@@ -45,6 +45,7 @@
 #include "precomp.hpp"                                       // user-defined header file
 #include <cstdio>
 #include <iostream>                                         //c++ standard library
+#include <math>
 
 #include "cascadedetect.hpp"
 #include "opencv2/objdetect/objdetect_c.h"
